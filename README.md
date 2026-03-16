@@ -19,7 +19,7 @@ find the graphical relationship between the two.
 
 ### CIRCUIT DIAGRAM
 
-![alt text](<Circuit Diagram.jpeg>)
+
 
 ### PROCEDURE: -
 I. Connect the multimeter at the output of kit..
